@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>tiurimac</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>Geen categorie &#8211; tiurimac</title>
+	<atom:link href="http://localhost/wordpress/category/geen-categorie/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.tiuri.ga/wordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 23 Mar 2021 16:06:54 +0000</lastBuildDate>
