@@ -9,7 +9,7 @@
 	<title>
 	Reacties op: Hallo wereld!	</title>
 	<atom:link href="http://localhost/wordpress/2021/03/23/hallo-wereld/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.tiuri.ga/2021/03/23/hallo-wereld/</link>
+	<link>https://www.tiuri.ga/wordpress/2021/03/23/hallo-wereld/</link>
 	<description>En nog een WordPress site</description>
 	<lastBuildDate>Tue, 23 Mar 2021 16:06:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Door: Een WordPress commentator		</title>
-		<link>https://www.tiuri.ga/2021/03/23/hallo-wereld/#comment-1</link>
+		<link>https://www.tiuri.ga/wordpress/2021/03/23/hallo-wereld/#comment-1</link>
 
 		<dc:creator><![CDATA[Een WordPress commentator]]></dc:creator>
 		<pubDate>Tue, 23 Mar 2021 16:06:54 +0000</pubDate>
-		<guid isPermaLink="false">https://www.tiuri.ga/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://www.tiuri.ga/wordpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hoi, dit is een reactie.
 Om te beginnen met beheren, bewerken en verwijderen van reacties, ga je naar het Reacties scherm op het dashboard.
